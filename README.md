@@ -1,11 +1,6 @@
 # Tugas Praktikum 
 ## Pertemuan ke 7  
 
-
-|**Nama**|**NIM**|**Kelas**|**Matkul**|
-|----|---|-----|------|
-|Raditra Ikhwanul Arifin|312310487|TI.23.A5|Basis Data|
-
 # Soal Latihan Praktikum
 ## Data Model Mapping
 
