@@ -21,7 +21,7 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 - Bagian 1:
 
   <p align="left">
-    <img src="/ss/1.jpg" width="200">
+    <img src="/ss/1.jpg" width="600">
   </p>
 
 ```
@@ -80,7 +80,7 @@ CREATE TABLE KRSMahasiswa (
   > Menambahkan 5 record data.
 
   <p align="left">
-    <img src="/ss/2.jpg" width="400">
+    <img src="/ss/2.jpg" width="600">
   </p>
 
 ```
