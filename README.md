@@ -1,6 +1,6 @@
 ## Mata Kuliah
 
-Sebagai Proyek UTS: [2] Basis Data | Universitas Pelita Bangsa.
+Sebagai tugas praktikum: [2] Basis Data | Universitas Pelita Bangsa.
 
 ## Laporan Praktikum
 
